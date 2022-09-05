@@ -29,3 +29,5 @@ gems:
 
 # Google Analytics
 # google_analytics: UA-XXXXXXXX-X
+
+future: true
